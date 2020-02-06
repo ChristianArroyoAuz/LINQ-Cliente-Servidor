@@ -1,0 +1,8 @@
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\ObjetoRemoto\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\ObjetoRemoto\bin\Debug\Base de Datos\miDB_log.ldf
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\ObjetoRemoto\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\ObjetoRemoto\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\ObjetoRemoto\obj\Debug\ObjetoRemoto.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\ObjetoRemoto\obj\Debug\ObjetoRemoto.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\ObjetoRemoto\obj\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\ObjetoRemoto\obj\Debug\ObjetoRemoto.pdb

@@ -1,0 +1,15 @@
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\bin\Debug\Base de Datos\miDB.mdf
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\bin\Debug\Base de Datos\miDB_log.ldf
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\bin\Debug\Cliente.exe.config
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\bin\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\bin\Debug\Cliente.pdb
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\bin\Debug\ObjetoRemoto.dll
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\bin\Debug\ObjetoRemoto.pdb
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\obj\Debug\Cliente.csprojAssemblyReference.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\obj\Debug\Cliente.Cliente.resources
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\obj\Debug\Componente.Properties.Resources.resources
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\obj\Debug\Cliente.csproj.GenerateResource.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\obj\Debug\Cliente.csproj.CoreCompileInputs.cache
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\obj\Debug\Cliente.csproj.CopyComplete
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\obj\Debug\Cliente.exe
+C:\Users\Christian Arroyo\Desktop\Practicas_y_Proyectos\Administracion_SQL_Cliente_Servidor_Hilos\Cliente\obj\Debug\Cliente.pdb
